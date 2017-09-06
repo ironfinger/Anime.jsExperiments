@@ -1,0 +1,58 @@
+body {
+  background-color: #000000;
+}
+
+#lineDrawing {
+  color: white;
+}
+
+#firstLine {
+  color: red;
+}
+
+#secondLine {
+  color: #ff00e5
+}
+
+#thirdLine {
+  color: #00ffe9;
+}
+
+#fourthLine {
+  color: #fff600;
+}
+
+#fithLine {
+  color: red;
+}
+
+#sixthLine {
+  color: #00ffe9;
+}
+
+#seventhLine {
+  color: #fff600
+}
+
+.line {
+  color: red;
+}
+
+.SVG {
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  margin: auto;
+}
+
+#basicTimeline {
+  position: absolute;
+  top: 500%;
+  height: 5em;
+}
+
+.sqaure {
+  height: 10em;
+  width: 10em;
+  background-color: red;
+}
