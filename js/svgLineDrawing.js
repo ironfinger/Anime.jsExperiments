@@ -1,4 +1,4 @@
-/*var lineDrawing = anime({
+var lineDrawing = anime({
   targets: '#lineDrawing .lines path',
   strokeDashoffset: [anime.setDashoffset, 0],
   easing: 'easeInOutSine',
@@ -6,11 +6,12 @@
   delay: function(el, i) { return i * 250 },
   direction: 'alternate',
   loop: true
-});*/
+});
 
+/*
 var css = anime({
   targets: '.lineDrawing ' // Try and fill in the svg files.
-});
+});*/
 
 var secondLineDrawing = anime({
   targets: '#lineDrawing02 path',
